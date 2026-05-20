@@ -36,7 +36,7 @@ Kerala, India 🇮🇳
 ---
 
 ### 📫 Contact Me
-- Email: yourmail@example.com  
+- Email: adithyaadhu2024@gmail.com  
 - GitHub: https://github.com/adhikathu  
 
 ---
