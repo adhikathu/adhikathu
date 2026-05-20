@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi, I'm Adithya 👋
 
-<!--
-**adhikathu/adhikathu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 I’m **Adithya A**, a passionate **Computer Engineering student**
+- 💻 Focused on **Web Development, Software Engineering, and Problem Solving**
+- 🌱 Currently learning **React.js, JavaScript, and modern frontend development**
+- 💡 Interested in building **clean, scalable, and user-friendly applications**
+- 🚀 Constantly improving my coding skills and engineering mindset
+
+---
+
+### 🛠️ Tech Stack
+- HTML, CSS, JavaScript  
+- React.js  
+- Tailwind CSS  
+- Git & GitHub  
+- Basic Data Structures & Algorithms  
+
+---
+
+### 📍 Location
+Kerala, India 🇮🇳
+
+---
+
+### 🎯 Goals
+- Become a skilled **Full Stack Developer**
+- Build real-world impactful projects
+- Contribute to open-source communities
+- Strengthen software engineering fundamentals
+
+---
+
+### 📫 Contact Me
+- Email: yourmail@example.com  
+- GitHub: https://github.com/adhikathu  
+
+---
+
+⭐ Always learning, building, and improving as a future software engineer.
